@@ -1,16 +1,34 @@
 {
   "wallpapers": [
     {
-      "author": "Shaun Dakin",
+      "author": "kazuend",
       "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/1.jpg",
-      "name": "Wind It",
+      "name": "Mountain",
       "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/1.jpg"
     },
     {
-      "author": "Rajat Jaswal",
+      "author": "Quino Al",
       "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/2.png",
-      "name": "Purple Pleasure",
+      "name": "Ice and Fire",
       "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/2.png"
+    },
+    {
+      "author": "Dmitry Ermakov",
+      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/3.png",
+      "name": "Calm Seas",
+      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/3.png"
+    },
+    {
+      "author": "Mike Wilson",
+      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/4.png",
+      "name": "Winds of Winter",
+      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/4.png"
+    },
+    {
+      "author": "Jake Blucker",
+      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/5.png",
+      "name": "Dry Lands",
+      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/5.png"
     }
   ]
 }
