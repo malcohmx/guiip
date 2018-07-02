@@ -4,19 +4,19 @@
       "author": "Unsplash",
       "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/1.jpg",
       "name": "Wallpaper 1",
-      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/1.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/1.jpg"
     },
     {
       "author": "WallpaperCraft",
       "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/2.jpg",
       "name": "Wallpaper 2",
-      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/2.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/2.jpg"
     },
     {
       "author": "WallpaperCraft",
       "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/3.jpg",
       "name": "Wallpaper 3",
-      "thumbnail": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/3.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/3.jpg"
     }
   ]
 }
