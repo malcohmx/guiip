@@ -1,22 +1,59 @@
 {
-  "wallpapers": [
-    {
-      "author": "Unsplash",
-      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/1.jpg",
-      "name": "Wallpaper 1",
-      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/1.jpg"
-    },
-    {
-      "author": "WallpaperCraft",
-      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/2.jpg",
-      "name": "Wallpaper 2",
-      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/2.jpg"
-    },
-    {
-      "author": "WallpaperCraft",
-      "url": "https://raw.githubusercontent.com/malcohmx/guiip/master/3.jpg",
-      "name": "Wallpaper 3",
-      "thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/3.jpg"
-    }
-  ]
+    "Wallpapers":
+        [
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/1.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/1_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 1"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/2.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/2_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 2"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/3.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/3_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 3"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/4.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/4_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 4"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/5.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/5_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 5"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/6.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/6_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 6"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/7.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/7_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 7"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/8.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/8_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 8"
+	    },
+	    {
+		"author": "Unsplash",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/9.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/malcohmx/guiip/master/9_thumb.jpg",
+		"name": "Pixel 3D Wallpaper 9"
+	    }
+        ]
 }
