@@ -2,30 +2,42 @@
 		"name": "Wall1",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_1.jpg",
 		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_1.jpg",
-		"downloadable": true
+		"downloadable": false
 	},
 	{
 		"name": "Wall2",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_2.jpg",
 		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_2.jpg",
-		"downloadable": true
+		"downloadable": false
 	},
 	{
 		"name": "Wall3",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_3.jpg",
 		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_3.jpg",
-		"downloadable": true
+		"downloadable": false
 	},
 	{
 		"name": "Wall14",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_4.jpg",
 		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_4.jpg",
-		"downloadable": true
+		"downloadable": false
 	},
 	{
-		"name": "Wall5",
+		"name": "Wall15",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/10.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/thumb_10.jpg",
+		"downloadable": false
+	},
+	{
+		"name": "Wall16",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/11.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/thumb_11.jpg",
+		"downloadable": false
+	},
+	{
+		"name": "Wall7",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_5.jpg",
 		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_5.jpg",
-		"downloadable": true
+		"downloadable": false
 	}
 ]
