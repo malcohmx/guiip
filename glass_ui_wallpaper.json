@@ -25,13 +25,13 @@
 	{
 		"name": "Wall15",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/10.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/thumb_10.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumb_10.jpg",
 		"downloadable": false
 	},
 	{
 		"name": "Wall16",
 		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/11.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/thumb_11.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumb_11.jpg",
 		"downloadable": false
 	},
 	{
@@ -41,3 +41,4 @@
 		"downloadable": false
 	}
 ]
+
