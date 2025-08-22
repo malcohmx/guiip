@@ -1,7 +1,7 @@
 [{
 		"name": "Wall1",
-		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_1.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_1.jpg",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/1.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/1_thumb.jpg",
 		"downloadable": false
 	},
 	{
@@ -30,8 +30,8 @@
 	},
 	{
 		"name": "Wall6",
-		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_4.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_4.jpg",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/6.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/6_thumb.jpg",
 		"downloadable": false
 	},
 	{
@@ -48,11 +48,12 @@
 	},
 	{
 		"name": "Wall9",
-		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/glass_ui_5.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/thumbs/glass_ui_5.jpg",
+		"url": "https://raw.githubusercontent.com/malcohmx/guiip/master/9.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/malcohmx/guiip/master/9_thumb.jpg",
 		"downloadable": false
 	}
 ]
+
 
 
 
